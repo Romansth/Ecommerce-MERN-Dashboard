@@ -12,6 +12,6 @@ const Breakdown = () => {
       </Box>
     </Box>
   )
-}
+} 
 
 export default Breakdown
