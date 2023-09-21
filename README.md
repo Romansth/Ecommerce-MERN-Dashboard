@@ -2,7 +2,7 @@
 
 This repository showcases a comprehensive admin dashboard application built using the MongoDB, Express.js, React, and Node.js (MERN) stack. 
 
-### Demo link: https://ecommerce-mern-dashboard-frontend.onrender.com
+### Demo link: https://admindash.romansth.com
 
 ### Screenshot:
 <img width="1508" alt="image" src="https://github.com/Romansth/Ecommerce-MERN-Dashboard/assets/53575561/6e79b8e5-6eb3-45a9-8763-ff66d29ba5e2">
